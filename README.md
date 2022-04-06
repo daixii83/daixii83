@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/daixii83](https://github.com/daixii83)
 
-- 📫 How to reach me **daixi83@gmail.com**
+- 📫 How to reach me **daixii83@gmail.com**
 
 - 📄 Know about my experiences [https://daixii83.github.io/](https://daixii83.github.io/)
 
