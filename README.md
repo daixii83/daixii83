@@ -109,9 +109,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a>
 </p>
 
 <h4 align="left">Dev Tools and Workflow</h4>
